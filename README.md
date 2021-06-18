@@ -1,4 +1,4 @@
-![KakaoTalk_Photo_2021-06-18-16-36-14](https://user-images.githubusercontent.com/55477102/122524844-970ce600-d053-11eb-83ae-9c73de518abe.png)
+![KakaoTalk_Photo_2021-06-18-16-40-02](https://user-images.githubusercontent.com/55477102/122525114-dcc9ae80-d053-11eb-8d3a-2df842595796.png)
 ### Welcome to Jaemin's planet 👋👋👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminkim0523&show_icons=true&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/jaeminkim0523/github-readme-stats)
