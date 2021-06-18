@@ -1,4 +1,5 @@
-### Welcome to Jaemin's world 👋👋👋
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+### Welcome to Jaemin's planet 👋👋👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminkim0523&show_icons=true&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/jaeminkim0523/github-readme-stats)
 
