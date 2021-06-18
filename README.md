@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminkim0523&show_icons=true&theme=dark)](https://github.com/jaeminkim0523/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminkim0523&show_icons=true&theme=dark&icon_color=#ffffff)](https://github.com/jaeminkim0523/github-readme-stats)
 
 <!--
 **jaeminKim0523/jaeminKim0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
