@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+![KakaoTalk_Photo_2021-06-18-16-36-14](https://user-images.githubusercontent.com/55477102/122524844-970ce600-d053-11eb-83ae-9c73de518abe.png)
 ### Welcome to Jaemin's planet 👋👋👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminkim0523&show_icons=true&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/jaeminkim0523/github-readme-stats)
