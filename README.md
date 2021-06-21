@@ -7,7 +7,7 @@
 - :hammer: I'm using <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 
 ## Contact
-- :email: Jaeminkim0523@gmail.com
+- :email: e-mail: Jaeminkim0523@gmail.com
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeminkim0523&show_icons=true&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/jaeminkim0523/github-readme-stats)
