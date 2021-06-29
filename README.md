@@ -1,4 +1,4 @@
-![KakaoTalk_Photo_2021-06-18-16-40-02](https://user-images.githubusercontent.com/55477102/122525114-dcc9ae80-d053-11eb-8d3a-2df842595796.png)
+![KakaoTalk_Photo_2021-06-18-16-36-14](https://user-images.githubusercontent.com/55477102/122524844-970ce600-d053-11eb-83ae-9c73de518abe.png)
 
 # Welcome to Jaemin's house 👋👋👋
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
